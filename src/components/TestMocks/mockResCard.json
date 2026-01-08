@@ -1,0 +1,78 @@
+{
+    "info": {
+        "id": "74644",
+        "name": "Burger King",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/cb49d0f8-337c-436a-9e6d-f7b36b26c0ad_74644.jpg",
+        "locality": "Vesu",
+        "areaName": "Vesu",
+        "costForTwo": "₹350 for two",
+        "cuisines": [
+            "Burgers",
+            "American"
+        ],
+        "avgRating": 4.4,
+        "parentId": "166",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "20K+",
+        "sla": {
+            "deliveryTime": 29,
+            "lastMileTravel": 5.9,
+            "serviceability": "SERVICEABLE",
+            "slaString": "25-30 mins",
+            "lastMileTravelString": "5.9 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2025-10-26 05:00:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "Rxawards/_CATEGORY-Burger.png",
+                    "description": "Delivery!"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "Delivery!",
+                                "imageId": "Rxawards/_CATEGORY-Burger.png"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "ITEMS",
+            "subHeader": "AT ₹55"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT"
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "4.2",
+                "ratingCount": "3.6K+"
+            },
+            "source": "GOOGLE",
+            "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+        "context": "seo-data-43bca6b8-5039-46da-935e-cdde9f114a4e"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/city/surat/burger-king-vesu-rest74644",
+        "type": "WEBLINK"
+    }
+}
