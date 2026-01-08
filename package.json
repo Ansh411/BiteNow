@@ -1,7 +1,7 @@
 {
   "name": "bitenow",
   "version": "1.0.0",
-  "description": "react hooks useState",
+  "description": "",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html",
